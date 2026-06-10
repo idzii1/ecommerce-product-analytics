@@ -1,33 +1,27 @@
-
 # E-Commerce Product Analytics
 
-## Project Overview
-This project analyzes e-commerce data to identify trends, customer behavior, and product performance.
+## Overview
+This project analyzes e-commerce data to identify trends and support business decisions.
 
 ## Tools
+- SQL (SQLite)
 - Python (pandas, matplotlib)
-- SQL
-- Excel
+- Data visualization
 
-## Key Analysis
+## Analysis
 - Revenue by category
-- Customer segmentation
-- Sales trends over time
+- Monthly trends
+- Customer behavior
 - KPI metrics
 
 ## Key Insights
-- Certain categories generate the highest revenue
-- Revenue trends show growth/seasonality
-- A small segment of customers generates most revenue
+- Top categories drive most revenue
+- Sales trends reveal seasonality
+- High-value customers generate significant revenue
 
-## Business Impact
-This analysis demonstrates how data can drive product and marketing decisions by:
-- identifying growth opportunities
-- improving customer targeting
-- optimizing product strategy
+## Business Recommendation
+Focus on top-performing categories and retention strategies for high-value customers.
 
 ## Dashboard
-(Insert screenshot)
+(Insert dashboard image)
 
-## Author
-Igor Michalak
