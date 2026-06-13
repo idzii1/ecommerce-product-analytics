@@ -1,28 +1,21 @@
-# E-Commerce Product Analytics
+# E-Commerce Sales Analytics Dashboard
 
-## Overview
-This project analyzes e-commerce data to identify trends and support business decisions.
+## Business Problem
+The goal of this project was to analyze e-commerce sales data to understand revenue drivers, customer behavior, and business performance.
 
-## Tools
+## Tools Used
 - SQL (SQLite)
 - Python (pandas, matplotlib)
-- Data visualization
-
-## Analysis
-- Revenue by category
-- Monthly trends
-- Customer behavior
-- KPI metrics
+- Power BI (dashboard)
 
 ## Key Insights
-- Top categories drive most revenue
-- Sales trends reveal seasonality
-- High-value customers generate significant revenue
+- Electronics category generates the highest revenue
+- Sales show a steady upward trend
+- A small group of customers contributes significantly to total sales
 
 ## Business Recommendation
-Focus on top-performing categories and retention strategies for high-value customers.
-
-## Dashboard
+- Focus marketing efforts on top-performing categories
+- Implement retention strategies for high-value customers
 
 <img width="1949" height="1086" alt="image" src="https://github.com/user-attachments/assets/99f6dc63-af74-446a-b5d0-062e5c4ecbe0" />
 
